@@ -13,6 +13,8 @@ same type sensor to determine if one of them is malfunctioning.
 
 Before real use, the accuracy of the sensors must be determined with more professional tools.
 
+![Basic idea](https://github.com/snipe75/low-cost-medical-ventilator/blob/master/Making_ventilator.jpg)
+
 ## ARDUINO PROGRAM
 A program for arduino that contains PID for controlling the turbine based on desired airflow or relative
 pressure. Also outputs sensor info to serial connection, for python script reading and live plotting.
